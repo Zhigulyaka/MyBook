@@ -1,0 +1,7 @@
+strings:
+  inputs:
+    - Art/Resourses/en.lproj
+  outputs:
+    templateName: structured-swift5
+    output: Art/Resources/Strings.swift
+

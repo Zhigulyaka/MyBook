@@ -1,0 +1,28 @@
+PODS:
+  - IQKeyboardManagerSwift (6.5.10)
+  - SnapKit (5.6.0)
+  - SwiftGen (6.4.0)
+  - SwiftLint (0.47.1)
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift (= 6.5.10)
+  - SnapKit (= 5.6.0)
+  - SwiftGen (= 6.4.0)
+  - SwiftLint
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - IQKeyboardManagerSwift
+    - SnapKit
+    - SwiftGen
+    - SwiftLint
+
+SPEC CHECKSUMS:
+  IQKeyboardManagerSwift: 52962c76ab33532f15ad9f3ff4e5715eda5335bb
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+  SwiftGen: 67860cc7c3cfc2ed25b9b74cfd55495fc89f9108
+  SwiftLint: f80f1be7fa96d30e0aa68e58d45d4ea1ccaac519
+
+PODFILE CHECKSUM: 9b6960dc05765cfc41886ca86b86fa67df2bcdcd
+
+COCOAPODS: 1.11.3
